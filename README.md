@@ -24,5 +24,5 @@ Note: The quality of ONT (especially homopolymer calling) has improved since the
 ### Autocycler (consensus genomes) - might not be relevant for the project
 - Ryan R Wick, Benjamin P Howden, Timothy P Stinear, Autocycler: long-read consensus assembly for bacterial genomes, Bioinformatics, Volume 41, Issue 9, September 2025, btaf474, https://doi.org/10.1093/bioinformatics/btaf474
 
-### Linear plasmids/chromsomes in Actinomycetes (in case they show up)
+### Linear plasmids/chromosomes in Actinomycetes (in case they show up)
 - David Faurdal, T.J. Booth, Tilmann Weber, Tue Sparholt Jørgensen, Tying up loose ends: Recovering thousands of missing telomeres from Streptomyces and other Streptomycetaceae genomes, bioRxiv, 2025.10.14.682034, https://doi.org/10.1101/2025.10.14.682034
